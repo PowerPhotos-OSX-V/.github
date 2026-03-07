@@ -1,7 +1,7 @@
-# PowerPhotos OSX
+# PowerPhotos Mac
 
 <p align="center">
-  <img src="https://static.macupdate.com/products/53916/l/powerphotos-logo.png?v=1671091598" width="200" alt="PowerPhotos icon"/>
+  <img src="https://macx.ws/uploads/posts/2017-09/1506503711_powerphotos.png" width="200" alt="PowerPhotos icon"/>
 </p>
 
 <p align="center">
@@ -43,7 +43,7 @@ Library comparison identifies differences through comparison tools where analyzi
 ---
 
 <p align="center">
-  <img src="https://static.macupdate.com/screenshots/301398/m/powerphotos-screenshot.png?v=1671091606" alt="PowerPhotos screenshot"/>
+  <img src="https://www.fatcatsoftware.com/images/powerphotos/main_window.png" alt="PowerPhotos screenshot"/>
 </p>
 
 ---
